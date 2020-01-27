@@ -11847,3 +11847,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.27-23.33.36:370][554]LogDirectoryWatcher: A directory notification failed for 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2020.01.27-23.38.03:714][540]LogDirectoryWatcher: A directory notification failed for 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Content/' because it was empty or there was a buffer overflow. Attemping another request...
 [2020.01.27-23.38.03:714][540]LogDirectoryWatcher: A directory notification failed for 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2020.01.27-23.44.40:470][431]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-23.44.40:539][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.44.40:564][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-23.44.40:663][431]PIE: New page: PIE session: ThirdPersonExampleMap (27-Jan-2020 11:44:40 pm)
+[2020.01.27-23.44.40:760][431]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-23.44.40:966][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206602s)
+[2020.01.27-23.44.41:000][431]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-23.44.41:015][431]LogPlayLevel: PIE: World Init took: (0.048033s)
+[2020.01.27-23.44.41:028][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.267908s)
+[2020.01.27-23.44.41:095][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.01.27-23.44.41:231][431]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.27-23.44.41:332][431]LogInit: FAudioDevice initialized.
+[2020.01.27-23.44.41:461][431]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.27-23.44.41:673][431]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-23.44.41
+[2020.01.27-23.44.41:693][431]LogWorld: Bringing up level for play took: 0.072588
+[2020.01.27-23.44.41:998][431]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.644
+[2020.01.27-23.44.42:069][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.45.21:080][740]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.45.21:082][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.45.21:204][740]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-23.45.21:205][740]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.45.21:306][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.45.21:386][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.01.27-23.45.21:435][741]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.01.27-23.45.26:158][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-23.45.33:438][390]LogBlueprint: Warning: [Compiler HUD] Could not find a variable named "Health" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Health
+[2020.01.27-23.45.33:456][390]LogBlueprint: Error: [Compiler HUD] The property associated with  Health  could not be found in '/Game/ThirdPersonBP/Blueprints/HUD.HUD_C'
+[2020.01.27-23.45.33:511][390]LogBlueprint: Warning: [Compiler HUD] [4703.72] Compile of HUD failed. 1 Fatal Issue(s) 1 Warning(s) [in 164 ms] (/Game/ThirdPersonBP/Blueprints/HUD.HUD)
+[2020.01.27-23.45.33:558][390]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/ThirdPersonBP/Blueprints/HUD.HUD
+[2020.01.27-23.45.34:799][390]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0163 seconds. Added 121 classes and 0 folders.
+[2020.01.27-23.45.36:806][390]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.01.27-23.45.37:794][390]LogSlate: Took 0.033396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.27-23.45.43:380][703]LogSlate: Window 'HUD' being destroyed
+[2020.01.27-23.45.49:309][  9]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2020.01.27-23.45.50:926][ 10]LogSlate: Took 0.009298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.27-23.46.21:842][799]LogUObjectHash: Compacting FUObjectHashTables data took  14.05ms
+[2020.01.27-23.46.22:188][799]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Saved/ThirdPersonExampleMap_Auto1166A0DA0466B8255B303F7B2B8826767.tmp' to 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.01.27-23.46.22:192][799]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.473
+[2020.01.27-23.46.22:192][799]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.473
+[2020.01.27-23.46.22:196][799]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2020.01.27-23.46.22:230][799]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2020.01.27-23.46.22:230][799]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2020.01.27-23.46.22:291][799]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Saved/ThirdPersonCharacter_Auto15E7FE88845BEDF2690A0DF9A6418D4FA.tmp' to 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2020.01.27-23.46.22:292][799]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.01.27-23.48.45:764][382]LogSlate: Took 0.012922 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.01.27-23.48.56:058][996]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.48.56:578][996]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.01.27-23.49.07:800][647]LogSavePackage: Moving 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Saved/ThirdPersonCharacterBCA2D79A4025C9B73150FAB5630CEACF.tmp' to 'C:/Users/adity/OneDrive/Desktop/Work/SuperAwesomeGame/SuperAwesomeGame/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.01.27-23.49.08:556][691]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.49.08:888][691]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.01.27-23.49.38:474][408]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.49.38:804][408]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.01.27-23.49.45:517][791]BlueprintLog: New page: Compile HUD
+[2020.01.27-23.49.45:582][791]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2020.01.27-23.50.58:720][ 63]LogEditorTransaction: Undo Move Node
+[2020.01.27-23.51.03:081][314]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.51.03:427][314]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.01.27-23.52.45:897][580]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.52.46:261][580]LogUObjectHash: Compacting FUObjectHashTables data took   7.53ms
+[2020.01.27-23.53.19:287][555]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.53.19:649][555]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.01.27-23.53.21:420][657]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-23.53.21:457][657]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.21:457][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-23.53.21:458][657]PIE: New page: PIE session: ThirdPersonExampleMap (27-Jan-2020 11:53:21 pm)
+[2020.01.27-23.53.21:458][657]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-23.53.21:471][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013419s)
+[2020.01.27-23.53.21:472][657]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-23.53.21:472][657]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2020.01.27-23.53.21:472][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014572s)
+[2020.01.27-23.53.21:543][657]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
+[2020.01.27-23.53.21:549][657]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.27-23.53.21:642][657]LogInit: FAudioDevice initialized.
+[2020.01.27-23.53.21:672][657]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.27-23.53.21:675][657]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-23.53.21
+[2020.01.27-23.53.21:675][657]LogWorld: Bringing up level for play took: 0.001638
+[2020.01.27-23.53.21:702][657]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.653
+[2020.01.27-23.53.21:702][657]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.30:613][191]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.30:615][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.53.30:648][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-23.53.30:648][191]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.30:713][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.53.30:722][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.01.27-23.53.30:750][192]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.01.27-23.53.33:082][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-23.53.48:800][251]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2020.01.27-23.53.49:187][251]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2020.01.27-23.53.52:914][470]LogTemp: Repeating last play command: Selected Viewport
+[2020.01.27-23.53.52:942][470]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.52:942][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.01.27-23.53.52:943][470]PIE: New page: PIE session: ThirdPersonExampleMap (27-Jan-2020 11:53:52 pm)
+[2020.01.27-23.53.52:943][470]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.01.27-23.53.52:955][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012554s)
+[2020.01.27-23.53.52:956][470]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.01.27-23.53.52:956][470]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2020.01.27-23.53.52:956][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013698s)
+[2020.01.27-23.53.53:025][470]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2020.01.27-23.53.53:032][470]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.27-23.53.53:124][470]LogInit: FAudioDevice initialized.
+[2020.01.27-23.53.53:154][470]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.01.27-23.53.53:159][470]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.01.27-23.53.53
+[2020.01.27-23.53.53:159][470]LogWorld: Bringing up level for play took: 0.002669
+[2020.01.27-23.53.53:172][470]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.818
+[2020.01.27-23.53.53:172][470]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.55:344][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.55:345][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.53.55:377][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.01.27-23.53.55:377][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.01.27-23.53.55:446][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-23.53.55:456][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.01.27-23.53.55:483][601]LogPlayLevel: Display: Destroying online subsystem :Context_13
